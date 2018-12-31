@@ -7,3 +7,4 @@ My intention is to change this mess.
 2. Installing HomeController -> HomeMatic CCU2, RPi PiVCCU, Thinker-S ioBroker -> on work
 3. set up a BananaPi-R3 as server -> on work
 lets see how it goes on... :-)FBS
+sitting down and try to learn the use of GitHub....
